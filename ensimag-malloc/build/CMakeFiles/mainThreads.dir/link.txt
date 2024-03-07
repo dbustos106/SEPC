@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wall -Werror -fanalyzer -fsanitize=undefined -fsanitize-address-use-after-scope CMakeFiles/mainThreads.dir/src/mainThreads.c.o -o mainThreads  -Wl,-rpath,/home/julian/Documentos/ENSI/Systemes/sepc/ensimag-malloc/build libensimalloc.so -lm 
