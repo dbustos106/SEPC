@@ -44,10 +44,10 @@ int main(){
     int ids[NOM_THREADS];
 
     struct rlimit limit;
-    limit.rlim_cur = 0.3;  // 1 seconde
-    limit.rlim_max = 0.3;  // 1 seconde
+    limit.rlim_cur = 0.3;  // 3 secondes
+    limit.rlim_max = 0.3;  // 3 secondes
 
-    // Limiter le temps d'exécution à une seconde
+    // Limiter le temps d'exécution à 3 secondes
     if (setrlimit(RLIMIT_CPU, &limit) != 0) {
         perror("Error en strlimit");
         exit(EXIT_FAILURE);
