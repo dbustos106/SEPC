@@ -1,31 +1,31 @@
-Start testing: Mar 07 17:23 CET
+Start testing: Apr 04 06:44 CEST
 ----------------------------------------------------------
 1/1 Testing: UnitShellTests
 1/1 Test: UnitShellTests
-Command: "/home/julian/Documentos/ENSI/Systemes/TP2/ensimag-shell/tests/allShellTests.rb"
-Directory: /home/julian/Documentos/ENSI/Systemes/TP2/ensimag-shell/build
-"UnitShellTests" start time: Mar 07 17:23 CET
+Command: "/home/julian/Documentos/ENSI/Systemes/SEPC/ensimag-shell/tests/allShellTests.rb"
+Directory: /home/julian/Documentos/ENSI/Systemes/SEPC/ensimag-shell/build
+"UnitShellTests" start time: Apr 04 06:44 CEST
 Output:
 ----------------------------------------------------------
-Run options: --seed 57473
+Run options: --seed 33326
 
 # Running:
 
-........pipe 17 17
-..
+.......pipe 10 10
+...
 
-Finished in 0.334237s, 29.9189 runs/s, 50.8622 assertions/s.
+Finished in 0.134579s, 74.3061 runs/s, 126.3203 assertions/s.
 
 10 runs, 17 assertions, 0 failures, 0 errors, 0 skips
 real 3.00
 user 0.00
 sys 0.00
 <end of output>
-Test time =  10.57 sec
+Test time =  10.21 sec
 ----------------------------------------------------------
 Test Passed.
-"UnitShellTests" end time: Mar 07 17:23 CET
+"UnitShellTests" end time: Apr 04 06:44 CEST
 "UnitShellTests" time elapsed: 00:00:10
 ----------------------------------------------------------
 
-End testing: Mar 07 17:23 CET
+End testing: Apr 04 06:44 CEST

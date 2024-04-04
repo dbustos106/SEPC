@@ -1,10 +1,10 @@
 #ifndef VARIANTE_H
 #define VARIANTE_H
 
-#define LOGINS David_Julian_BUSTOS_CORTES_bustoscd_R__my_ROUBINET_roubiner
-#define SUJET 0
-#define USE_GUILE 1
-#define USE_GNU_READLINE 1
+#define LOGINS @AUTHOR_LIST@
+#define SUJET @VARIANTE_SUJET@
+#define USE_GUILE @USE_GUILE@
+#define USE_GNU_READLINE @USE_GNU_READLINE@
 
 #define VARIANTE SUJET
 

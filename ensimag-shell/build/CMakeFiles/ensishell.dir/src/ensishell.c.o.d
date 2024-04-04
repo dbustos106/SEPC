@@ -1,5 +1,5 @@
 CMakeFiles/ensishell.dir/src/ensishell.c.o: \
- /home/julian/Documentos/ENSI/Systemes/TP2/ensimag-shell/src/ensishell.c \
+ /home/julian/Documentos/ENSI/Systemes/SEPC/ensimag-shell/src/ensishell.c \
  /usr/include/stdc-predef.h /usr/include/glob.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h /usr/include/features.h \
  /usr/include/features-time64.h \
@@ -85,8 +85,8 @@ CMakeFiles/ensishell.dir/src/ensishell.c.o: \
  /usr/include/x86_64-linux-gnu/sys/resource.h \
  /usr/include/x86_64-linux-gnu/bits/resource.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_rusage.h \
- /home/julian/Documentos/ENSI/Systemes/TP2/ensimag-shell/src/variante.h \
- /home/julian/Documentos/ENSI/Systemes/TP2/ensimag-shell/src/readcmd.h \
+ /home/julian/Documentos/ENSI/Systemes/SEPC/ensimag-shell/src/variante.h \
+ /home/julian/Documentos/ENSI/Systemes/SEPC/ensimag-shell/src/readcmd.h \
  /usr/include/readline/readline.h /usr/include/readline/rlstdc.h \
  /usr/include/readline/rltypedefs.h /usr/include/readline/keymaps.h \
  /usr/include/readline/chardefs.h /usr/include/ctype.h \

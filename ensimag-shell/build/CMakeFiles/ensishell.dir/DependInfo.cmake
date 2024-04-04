@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/julian/Documentos/ENSI/Systemes/TP2/ensimag-shell/src/ensishell.c" "CMakeFiles/ensishell.dir/src/ensishell.c.o" "gcc" "CMakeFiles/ensishell.dir/src/ensishell.c.o.d"
-  "/home/julian/Documentos/ENSI/Systemes/TP2/ensimag-shell/src/readcmd.c" "CMakeFiles/ensishell.dir/src/readcmd.c.o" "gcc" "CMakeFiles/ensishell.dir/src/readcmd.c.o.d"
+  "/home/julian/Documentos/ENSI/Systemes/SEPC/ensimag-shell/src/ensishell.c" "CMakeFiles/ensishell.dir/src/ensishell.c.o" "gcc" "CMakeFiles/ensishell.dir/src/ensishell.c.o.d"
+  "/home/julian/Documentos/ENSI/Systemes/SEPC/ensimag-shell/src/readcmd.c" "CMakeFiles/ensishell.dir/src/readcmd.c.o" "gcc" "CMakeFiles/ensishell.dir/src/readcmd.c.o.d"
   )
 
 # Targets to which this target links.
